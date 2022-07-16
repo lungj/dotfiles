@@ -1,0 +1,3 @@
+[submodule "programs/vim"]
+	path = programs/vim
+	url = git@github.com:lungj/vim_settings.git
